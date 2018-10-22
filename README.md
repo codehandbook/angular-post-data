@@ -1,5 +1,5 @@
 ## How To Post Data From Angular To Node REST API
-Detailed tutorial related to this source code can be found at CodeHandbook.org.
+Check out the detailed [tutorial on how to post data from Angular to Node REST API](https://codehandbook.org/post-data-from-angular-to-node-rest-api/)
 ## Running the source code
 Clone the git repository, navigate to the angular app, install the dependencies and start the server.
 ```
